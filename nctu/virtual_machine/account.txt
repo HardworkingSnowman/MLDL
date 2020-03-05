@@ -1,0 +1,18 @@
+AWS:
+cpr1014.cs06@nctu.edu.tw
+$h9h9ji3g4go6 ($²q²q§Ú¬O½Ö)
+
+virtual machine:
+IP:54.167.236.149
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5bKyxQts5hwnFRDON7jYqf1yuGZ25MUE4Dx9QjPwyNgPaaOb3u7sW7hNJrlqom/Pn0oDT/+0E7uDCXAlysPXNK3HY9rzMZ5C6QK31A/OSw7SjH0upCQLNn/WHFUQCrrGunxbJtcf14yOD99ywOgPXdsGtGNGNSRWXl8/BMaMWpNwjTWcFA+XiPbvQMfvMziApxbGhnE+HSkgyYXSfKX0eI18hCO7RiA7Weq+TycIVfPxyiOITOyl1iUfFawdq6ni70D4GWp6utduobxp2+kcByt/ULWpHUIxreqL+1/ftV0Me119e8qsH60oFuBZ0pUO4VGRbauloNmW3IZnqekjH root@DESKTOP-CHN3BSE
+
+filezilla:
+ec2
+
+jupyter:
+h9h9ji3g4go6
+
+jupyter lab
+https://ec2-54-167-236-149.compute-1.amazonaws.com:30900/login?next=%2Flab%3F
+
+¶}±Òserver:Actions => Instance State => stop/start
